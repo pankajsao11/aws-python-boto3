@@ -24,3 +24,6 @@ Terminating Instance:
 
 ## 4) EBS Snapshot
 <img width="1365" height="642" alt="image" src="https://github.com/user-attachments/assets/2032a8ea-2da0-4033-9dbe-58e005da7197" />
+
+<img width="1509" height="380" alt="image" src="https://github.com/user-attachments/assets/b6bfc6ab-1724-46a0-9a3a-ec3985d49ae8" />
+
