@@ -25,5 +25,11 @@ Terminating Instance:
 ## 4) EBS Snapshot
 <img width="1365" height="642" alt="image" src="https://github.com/user-attachments/assets/2032a8ea-2da0-4033-9dbe-58e005da7197" />
 
+## 5) AMI Copy
+<img width="1917" height="927" alt="image" src="https://github.com/user-attachments/assets/19e7411f-d501-436c-a1dc-6f4f8d5539c9" />
+
+<img width="1920" height="942" alt="image" src="https://github.com/user-attachments/assets/9c2b89dd-59e6-401c-b1f4-ec29379a14b6" />
+
+
 <img width="1509" height="380" alt="image" src="https://github.com/user-attachments/assets/b6bfc6ab-1724-46a0-9a3a-ec3985d49ae8" />
 
