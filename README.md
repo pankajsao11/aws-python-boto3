@@ -33,3 +33,6 @@ Terminating Instance:
 
 <img width="1509" height="380" alt="image" src="https://github.com/user-attachments/assets/b6bfc6ab-1724-46a0-9a3a-ec3985d49ae8" />
 
+## 6) DynamodDB Put ITem
+<img width="747" height="316" alt="image" src="https://github.com/user-attachments/assets/9d93a1d0-9426-40cc-8ad6-e6f857728829" />
+
