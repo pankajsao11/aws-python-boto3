@@ -48,7 +48,7 @@ print(final_output)
 
 ```
 
-S3-Lambda cross account access:
+## S3-Lambda cross account access:
 
 To allow a Lambda function in AWS Account B to access an S3 bucket in Account A, the recommended approach is to use IAM roles and cross-account permissions.
 
@@ -103,7 +103,7 @@ s3_client = boto3.client(
 )
 ```
 
-# Now you can use s3_client to access S3 in Account A
+* Now you can use s3_client to access S3 in Account A
 5. Security Notes
 
 Follow the principle of least privilege for IAM policies and roles.
